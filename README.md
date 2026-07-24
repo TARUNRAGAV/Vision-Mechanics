@@ -50,7 +50,7 @@ This suite is built for native deployment on **Python 3.14** using MediaPipe's m
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/vision-mechanics.git](https://github.com/YOUR_USERNAME/vision-mechanics.git)
+git clone [https://github.com/TARUNRAGAV/vision-mechanics.git](https://github.com/TARUNRAGAV/vision-mechanics.git)
 cd vision-mechanics
 
 **2. Install dependencies:**
