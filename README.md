@@ -1,7 +1,7 @@
 # Vision Mechanics: HackTronix 2.0 CV Suite
 
 **TEAM: STRIKERS**  
-**OP: R TARUN RAGAV**
+**BY: R TARUN RAGAV**
 
 Official HackTronix 2.0 CV suite by TEAM:STRIKERS. Features robust multi-object ball detection and a pure-math Delaunay triangulation engine for monocular 3D face telemetry. Calculates spatial depth and deviation angles natively. 
 
